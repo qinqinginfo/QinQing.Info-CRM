@@ -1,4 +1,5 @@
 QinQing.Info-CRM
 ================
 
-QinQing.Info CRM
+QinQing.Info Customer Relationship Management
+
